@@ -1,0 +1,36 @@
+ body {
+    background-image: url(https://i.redd.it/2up2leqn0hq41.jpg);
+    font-size: 1px;
+    margin: 30px 10px;
+    text-align: left;
+    align-items: center;
+}
+
+footer {
+    background-color: Red;
+    color: rgb(0, 0, 0);
+    margin: 0;
+}
+
+button {
+    width: 30px;
+    text-align: center;
+    font-size: 35px;
+}
+
+input[type=button] {
+    width: 90px;
+    height: 90px;
+    font-size: 60px;
+    background-color: rgb(56, 56, 56);
+    color: rgb(255, 255, 255);
+    border: rgb(173, 135, 52) solid 1px;
+    text-align: center;
+}
+
+input[type=text] {
+    width: calc(22% - 11px);
+    height: 60px;
+    background-color: rgb(56, 56, 56);
+
+}
